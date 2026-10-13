@@ -1,0 +1,3 @@
+/*! https://github.com/nevware21/ts-utils v0.14.0 */
+
+/*! node-domexception. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
