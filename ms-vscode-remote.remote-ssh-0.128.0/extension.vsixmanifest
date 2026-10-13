@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="remote-ssh" Version="0.128.0" Publisher="ms-vscode-remote" />
+			<Identity Language="en-US" Id="remote-ssh" Version="0.128.0-1" Publisher="ms-vscode-remote" />
 			<DisplayName>Remote - SSH</DisplayName>
 			<Description xml:space="preserve">Open any folder on a remote machine using SSH and take advantage of VS Code&apos;s full feature set.</Description>
 			<Tags>remote development,remote,ssh,remote-menu,chat-participant</Tags>
