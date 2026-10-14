@@ -11,8 +11,7 @@
 			<Properties>
 				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.133.0" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
-				<Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="ms-vscode-remote.remote-ssh-edit,ms-vscode.remote-explorer" />
-				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui" />
+								<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui" />
 				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.EnabledApiProposals" Value="resolvers,tunnels,terminalDataWriteEvent,contribViewsRemote,telemetry,contribRemoteHelp" />
 				<Property Id="Microsoft.VisualStudio.Code.PreRelease" Value="true" />
